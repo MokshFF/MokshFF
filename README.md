@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Moksh Varshney 👋
 
-<!--
-**MokshFF/MokshFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech – Computer Science Engineering  
+💻 Interested in Machine Learning, Computer Vision & Software Development  
+🌱 Currently learning Data Structures & Algorithms  
+🚀 Building ML and AI-based projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science student passionate about Machine Learning, Computer Vision, and Software Development.  
+I enjoy solving real-world problems using data, algorithms, and intelligent systems.
+
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- C++
+
+### Machine Learning
+- Supervised Learning
+- Model Evaluation
+- Text Classification
+
+### Computer Vision
+- OpenCV
+- Image Processing
+
+### Tools & Libraries
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+
+### Development & Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Software Engineering
+
+### Version Control
+- Git
+- GitHub
+
+### Databases
+- SQL
+
+---
+
+## 📌 Current Focus
+
+- Practicing Data Structures & Algorithms  
+- Building Machine Learning Projects  
+- Improving Problem Solving Skills  
+
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/moksh-varshney-813284285/
+
+💻 GitHub:  
+https://github.com/MokshFF
+
+---
+
+⭐ Always open to learning, collaborating, and building impactful projects.
