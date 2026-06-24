@@ -66,6 +66,9 @@ https://www.linkedin.com/in/moksh-varshney-813284285/
 💻 GitHub:  
 https://github.com/MokshFF
 
+💻 LeetCode:
+https://leetcode.com/u/Moksh_Varshney/
+
 ---
 
 ⭐ Always open to learning, collaborating, and building impactful projects.
