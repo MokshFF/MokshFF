@@ -19,7 +19,7 @@ I enjoy solving real-world problems using data, algorithms, and intelligent syst
 ### Programming Languages
 - Python
 - Java
-- C++
+- DSA With C++
 
 ### Machine Learning
 - Supervised Learning
