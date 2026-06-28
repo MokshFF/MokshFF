@@ -10,20 +10,6 @@ Hi 👋, I'm Moksh Varshney
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Deep+Learning+Learner;Computer+Vision+Explorer;DSA+with+C%2B%2B;Always+Learning+Something+New!" />
 </p>
 
-<p align="center">
-
-<a href="https://github.com/MokshFF">
-<img src="https://img.shields.io/github/followers/MokshFF?label=Followers&style=for-the-badge">
-</a>
-
-<a href="https://github.com/MokshFF">
-<img src="https://img.shields.io/github/stars/MokshFF?style=for-the-badge">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=MokshFF&style=for-the-badge&color=blue"/>
-
-</p>
-
 ---
 
 # 💫 About Me
@@ -116,8 +102,8 @@ I'm passionate about building intelligent systems using **Artificial Intelligenc
 - Tokenization
 - Word Embeddings
 - Sentiment Analysis
-- Transformers (Learning)
-- Hugging Face (Learning)
+- Transformers *(Learning)*
+- Hugging Face *(Learning)*
 
 ---
 
@@ -243,36 +229,6 @@ Content-based music recommendation system using machine learning algorithms.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MokshFF&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshFF&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MokshFF&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MokshFF&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MokshFF&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
